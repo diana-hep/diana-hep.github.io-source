@@ -17,25 +17,27 @@ TRANSLATION_FEED_ATOM = None
 
 DISPLAY_PAGES_ON_MENU =False
 MENUITEMS = (
-			('About','/pages/about.html'),
-			('Job Opportunities','/pages/jobs.html'),
+			('Team','/pages/team.html'),
+      ('Activities','/pages/activities.html'),
+			('DIANA Fellows','/pages/fellows.html'),
             ('Blog','/category/blog.html')
 			)
 
 # Blogroll
 LINKS =  (('ROOT', 'https://root.cern.ch/drupal/'),
 		  ('NSF SI2','http://www.nsf.gov/funding/pgm_summ.jsp?pims_id=504817'),
-		  ('RooStats','https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome'),
-		  ('GooFit','https://github.com/GooFit/GooFit'),
+		  ('S2I2-HEP','http://s2i2-hep.org/'),
+		  ('Jetscape','http://jetscape.wayne.edu/'),
 		  ('rootpy','http://www.rootpy.org'),
-		  ('AstroPy','http://www.astropy.org'),
 		  ('scikit-learn','http://scikit-learn.org/stable/'),
+		  ('RooStats','https://twiki.cern.ch/twiki/bin/view/RooStats/WebHome'),
 		  )
 
 # Social widget
 SOCIAL = (('twitter', 'http://twitter.com/diana_hep'),
           ('github', 'http://github.com/diana-hep'),
           ('Indico', 'https://indico.cern.ch/category/7192/'),
+          ('Google Group', 'https://groups.google.com/forum/#!forum/diana-hep'),
           ('Vidyo Room', 'https://vidyoportal.cern.ch/flex.html?roomdirect.html&key=g24IFWEdhejzHVy851PztEh82e4'),)
 
 CC_LICENSE="CC-BY"
@@ -80,10 +82,14 @@ BANNER_ALL_PAGES = False
 CUSTOM_CSS = 'static/custom.css'
 
 
-DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
+#DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
+DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives')
+
+PATH = 'content'
+ARTICLE_PATHS = ['blog']
 
 STATIC_PATHS = ['images','css', 'downloads', 'downloads/notebooks',
-                'downloads/files','downloads/code', 'favicon.png']
+                'downloads/files','downloads/code', 'pages/projects', 'favicon.png']
 
 # Tell Pelican to change the path to 'static/custom.css' in the output dir
 EXTRA_PATH_METADATA = {
@@ -95,10 +101,14 @@ NOTEBOOK_DIR = 'downloads/notebooks'
 FAVICON= "images/favicon.ico"
 
 PLUGIN_PATHS = ['pelican-plugins']
+#PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
+#			'liquid_tags.youtube', 'render_math',
+#           'liquid_tags.include_code', 'liquid_tags.notebook',
+#           'liquid_tags.literal', 'tipue_search']
 PLUGINS = ['summary', 'liquid_tags.img', 'liquid_tags.video',
 			'liquid_tags.youtube', 'render_math',
            'liquid_tags.include_code', 'liquid_tags.notebook',
-           'liquid_tags.literal', 'tipue_search']
+           'liquid_tags.literal']
 
 
 # comments
