@@ -30,6 +30,8 @@ Summary: DIANA Team
 
   * Zhe Zhang - University of Nebraska-Lincoln, Department of Computer Science and Engineering (Ph.D. Student)
 
+  * Aleksandr Efremov - Princeton University, Department of Physics
+
 ### Associated team members
 
   * [Johann Brehmer](http://www.ccpp.nyu.edu/Johann_Brehmer.html) - New York University 
@@ -60,7 +62,7 @@ Summary: DIANA Team
 
   * [CMS Big Data Project](https://cms-big-data.github.io): [Oliver Gutsche](https://sites.google.com/site/oguatworld/home), Matteo Cremonesi, [Nhan Tran](http://home.fnal.gov/~ntran/), [Jim Kowalkowski](http://computational-rd.fnal.gov/jim-kowalkowski/), and [Saba Sehrish](http://computational-rd.fnal.gov/saba-sehrish/) - Fermilab
 
-  * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Alex Pearce](http://alexpearce.me/) - CERN, [Brian Pollack](https://github.com/brovercleveland) - Northwestern University, [Nils Braun](https://github.com/nils-braun) - Karlsruhe Institute of Technology,  [ Matthieu Marinangeli](https://github.com/marinang) - Institute of Physics, EPFL, Lausanne, Switzerland, [Chris Burr](https://github.com/chrisburr) - University of Manchester
+  * [Scikit-HEP](http://scikit-hep.org/): [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne, [Alex Pearce](http://alexpearce.me/) - CERN, [Brian Pollack](https://github.com/brovercleveland) - Northwestern University, [Nils Braun](https://github.com/nils-braun) - Karlsruhe Institute of Technology,  [ Matthieu Marinangeli](https://github.com/marinang) - Institute of Physics, EPFL, Lausanne, Switzerland, [Chris Burr](https://github.com/chrisburr) - University of Manchester, Henry Schreiner - U. Cincinnati/Princeton, Hans Dembinski - Max Planck Institute, Heidelberg, Ben Krikler - U. Bristol
 
   * [Spark-ROOT](https://github.com/diana-hep/spark-root): [Viktor Khristenko](https://github.com/vkhristenko) - CERN OpenLab, [Pratyush Das](https://github.com/reikdas) - Institute of Engineering and Management
 
@@ -68,11 +70,16 @@ Summary: DIANA Team
 
   * Query server project: [Oliver Gutsche](https://sites.google.com/site/oguatworld/home) and [Igor Mandrichenko](https://www.linkedin.com/in/igor-mandrichenko-94a5862) - Fermilab
 
-  * Database-style indexing for queries: [Tanu Malik](http://www.cdm.depaul.edu/about/Pages/People/facultyinfo.aspx?fid=1328) - DePaul
-
   * [Carl](http://diana-hep.org/carl/): [Juan Pavez](https://github.com/jgpavez), Cyril Becot - New York University, [Lukas Heinrich](http://www.lukasheinrich.com/) - New York University
 
   * [Scikit-Optimize](https://scikit-optimize.github.io/): [Manoj Kumar](https://github.com/MechCoder) - New York University, [Tim Head](https://github.com/betatim), [Noel Dawe](http://www.coepp.org.au/people/noel-dawe) - University of Melbourne
+
+  * [Skyhook - programmable storage for databases](https://sites.google.com/view/skyhook-programmable-storage): Carlos Maltzahn, Jeff Lefevre - University of California, Santa Cruz
+
+  * [Coffea - Column Object Framework For Effective Analysis](https://github.com/CoffeaTeam): Matteo Cremonesi, Lindsey Gray, Oliver Gutsche, Allison Hall,
+Bo Jayatilaka, Igor Mandrichenko, Kevin Pedro, Nick Smith - FNAL, Ben Galewsky - UIUC/NCSA, Andrew Melo - Vanderbilt
+
+  * [PyHEP](https://hepsoftwarefoundation.org/workinggroups/pyhep.html) - Chris Tunnell
 
 ### Advisory Board
 
