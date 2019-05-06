@@ -79,7 +79,7 @@ Summary: DIANA Team
   * [Coffea - Column Object Framework For Effective Analysis](https://github.com/CoffeaTeam): Matteo Cremonesi, Lindsey Gray, Oliver Gutsche, Allison Hall,
 Bo Jayatilaka, Igor Mandrichenko, Kevin Pedro, Nick Smith - FNAL, Ben Galewsky - UIUC/NCSA, Andrew Melo - Vanderbilt
 
-  * [PyHEP](https://hepsoftwarefoundation.org/workinggroups/pyhep.html) - Chris Tunnell
+  * [PyHEP](https://hepsoftwarefoundation.org/workinggroups/pyhep.html): Chris Tunnell - Rice University
 
 ### Advisory Board
 
