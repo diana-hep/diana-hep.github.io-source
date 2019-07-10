@@ -15,7 +15,7 @@ Summary: DIANA Activities
 
    *  [<i class="fa fa-github-square fa-lg"></i> DIANA/HEP organization on GitHub](https://github.com/diana-hep)
 
-   * Carl: a toolbox for likelihood-free inference  - [docs](http://diana-hep.org/carl), [GitHub](https://github.com/diana-hep/carl) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.47798.svg)](http://dx.doi.org/10.5281/zenodo.47798)
+   * Carl: a toolbox for likelihood-free inference  - [docs](http://diana-hep.org/carl), [GitHub](https://github.com/diana-hep/carl) [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.47798.svg)](http://dx.doi.org/10.5281/zenodo.47798) [![DOI](http://joss.theoj.org/papers/10.21105/joss.00011/status.svg)](https://doi.org/10.21105/joss.00011)
 
    * Histogrammar: a multilingual specification for histogram aggregation with implementations in Python and Scala - [docs](http://histogrammar.org), [GitHub](https://github.com/histogrammar)
 
