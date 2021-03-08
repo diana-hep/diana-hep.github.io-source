@@ -44,6 +44,11 @@ until the positions are filled.
 
 ### Current and past DIANA fellows
 
+#### Josh Elsarboukh, University of Colorado Denver [Undergrad]
+  * Topic: Add Awkward as a Target Language for Kaitai Struct Compiler - [proposal](/downloads/2019-diana-fellow-proposal-josh-elsarboukh.pdf)
+  * Mentor: Jim Pivarski/Amy Roberts
+  * Dates/Location: Winter 2020 (UCD)
+
 #### Pratyush Das, Institute of Engineering and Management (Kolkata) [Undergrad]
   * Topic: Add write functionality to [uproot](https://github.com/scikit-hep/uproot) - [proposal](/downloads/2018-diana-fellow-proposal-pratyush-das.pdf)
   * Mentor: Jim Pivarski, Princeton University
