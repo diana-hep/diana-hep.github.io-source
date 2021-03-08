@@ -25,4 +25,14 @@ env:
   - secure: Ulkj49L/h79obgxk1rFT2cVXipwchgWbrXxapKa/YsYa7Ab81JFd32VyD+MZfA5d8kRubQ/lR4iao7dEg0zbNTDRzGOyJ0adStekOVgKWeQE7VAuJM9og4XU0rWz39Oztkx/ewdHfltWNWN80Chg9j8dVirc4GzGm+pb+X6DJExuEUFIu+nR+SoXdl0Hze8a6Ye+HE1yJNONTkIukYpBIjVutzUvYOOY1iqn8Zym+fsM+O6WSC6UCfq3JPWLPUjyVJmSRQdSlq/WXf13x+DOtxc7TErn0WZArvyAdHuNH9cmDGjwDKQ6IrgzG6y4stkcYDkrszX+/9+PZjxxo7drZSSL7BiqppTSEZ9xJdirCehWDO/kA7JweXlq5IvYGj+0/PPusdIumGDvaM/ZOq0hDoBTkqgTTUVrJcaiRmrO8xbfTH1hLC3zQebMcvmwgKRpbMxSlPbJEWTxnWljNGEmncEdrTvU/VpzZ6RD9IR+RiZ87+EyCU2lY2ryU4UIjSbNJxwF5/974SRavDdIz2F6f4lKF8kMgq/1N+a80+v2EIN+LthibpMx0dtnwxtxRsYLf2R9vRaU12z12LdC1MPvZrlMVp6uORqBwalfA+Mhw27gCfPm2ep0DrgmD1XvhujWE/5QKxIVmw3hHkgGHM1+nOWuOfN6GMepf4MCST5TNtA=
 before_install:
 - git submodule update --init --recursive
-after_success: bash deploy.sh
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  keep_history: true
+  repo: diana-hep/diana-hep.github.io
+  local_dir: output
+  fqdn: http://diana-hep.org
+  on:
+    branch: master
