@@ -33,6 +33,6 @@ deploy:
   keep_history: true
   repo: diana-hep/diana-hep.github.io
   local_dir: output
-  fqdn: http://diana-hep.org
+  fqdn: diana-hep.org
   on:
     branch: master
