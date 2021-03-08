@@ -19,8 +19,6 @@ Summary: DIANA Team
   * [James Pivarski](https://github.com/jpivarski) - Princeton University, Department of Physics
 
   * [Henry Schreiner](https://iscinumpy.gitlab.io/) - Princeton University, Princeton Institute for Computational Science and Engineering
-  
-  * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Cincinnati, Department of Physics
 
   * [Johann Brehmer](https://johannbrehmer.github.io) - New York University, Department of Physics & Center for Data Science
 
@@ -42,6 +40,8 @@ Summary: DIANA Team
 
   * [David Abdurachmanov](https://github.com/davidlt) - CERN/University of Wisconsin - Madison (formerly University of Nebraska-Lincoln)
 
+  * [Eduardo Rodrigues](http://cern.ch/eduardo.rodrigues) - University of Liverpool (formerly University of Cincinnati)
+  
   * [Gilles Louppe](https://glouppe.github.io/) - University of Liege (formerly New York University)
 
   * Chien-Chin Huang - New York University, Computer Science Department (Ph.D. Student)
