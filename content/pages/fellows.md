@@ -41,6 +41,10 @@ until the positions are filled.
 * **Instrumenting and Studying Adam and Other Optimization Algorithms in PyTorch** [project description](/downloads/optimization.pdf)  (March 21, 2021)
 * **Profiling the CUDA back-end for Allen** [project description](/downloads/Allen_profiling.pdf) (March 21, 2021)
 * **Optimizing the AMD back-end for Allen** [project description](/downloads/Allen_AMD.pdf) (March 21, 2021)
+* **Adapting a Machine Learning Algorithm for use in the CMS Experiment** [project description](/downloads/vertexing_cms.pdf) (March 28,2021)
+* **Adapting a Machine Learning Algorithm for use in the ATLAS Experiment** [project description](/downloads/vertexing_atlas.pdf) (March 28,2021)
+* **Finalizing h5hep, a ROOT-like file format based on HDF5** [project description](\downloads/bellis_diana_hep_undergrad_fellowship_2021_v2.pdf) (March 28, 2021)
+* **Optimizing fast convolutional neural networks for identifying long-lived particles in the CMS high-granularity calorimeter** [project description](\downloads/llp.pdf) (March 28, 2021)
 
 ### Current and past DIANA fellows
 
