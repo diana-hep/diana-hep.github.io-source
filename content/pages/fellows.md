@@ -53,6 +53,11 @@ until the positions are filled.
   * Mentor: Jim Pivarski/Amy Roberts
   * Dates/Location: Winter 2020 (UCD)
 
+#### Mat Adamec, University of Nebraska-Lincoln [Undergrad]
+  * Topic: Scaling Data Analysis in Coffea - [proposal](/downloads/2020-diana-fellow-proposal-mat-adamec.pdf )
+  * Mentor: Ken Bloom (UNL)/Lindsey Gray (FNAL)
+  * Dates/Location: Summer 2020 (UNL)
+
 #### Pratyush Das, Institute of Engineering and Management (Kolkata) [Undergrad]
   * Topic: Add write functionality to [uproot](https://github.com/scikit-hep/uproot) - [proposal](/downloads/2018-diana-fellow-proposal-pratyush-das.pdf)
   * Mentor: Jim Pivarski, Princeton University
